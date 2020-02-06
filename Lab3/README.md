@@ -11,10 +11,10 @@ Dodanie obsługi myszki do poruszania obiektem/kamerą :
 Efekt końcowy :
 
 <p align="center">
-  <img width="1000" height="600" src="../images/Rotate.png">
+  <img width="800" height="600" src="../images/Rotate.png">
 </p>
 
 <p align="center">
-  <img width="1000" height="450" src="../images/Zoom.png">
+  <img width="800" height="335" src="../images/Zoom.png">
 </p>
 
