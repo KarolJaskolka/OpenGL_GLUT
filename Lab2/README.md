@@ -12,17 +12,17 @@ Utworzenie modelu jajka w 3-D za pomocą :
 Efekt końcowy :
 
 <p align="center">
-  <img width="500" height="600" src="../images/Egg_Dots.png">
+  <img width="300" height="400" src="../images/Egg_Dots.png">
 </p>
 
 <p align="center">
-  <img width="500" height="600" src="../images/Egg_Lines.png">
+  <img width="300" height="400" src="../images/Egg_Lines.png">
 </p>
 
 <p align="center">
-  <img width="500" height="600" src="../images/Egg_Triangles.png">
+  <img width="300" height="400" src="../images/Egg_Triangles.png">
 </p>
 
 <p align="center">
-  <img width="500" height="600" src="../images/Egg_Strip.png">
+  <img width="300" height="400" src="../images/Egg_Strip.png">
 </p>
