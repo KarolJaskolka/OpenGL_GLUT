@@ -7,4 +7,7 @@ Zadania do wykonania :
 
 Efekt końcowy :
 
-![Fraktal](../images/fractal.png)
+<p align="center">
+  <img width="500" height="400" src="../images/fractal.png">
+</p>
+
